@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Advisor</string>
+    <string name="setting_action">City Name</string>
+    <string name="todo">TODO</string>
+    <string name="spokane_us">Spokane, US</string>
+    <string name="wind">Wind</string>
+    <string name="cloud">Cloud</string>
+    <string name="_12_degree">12 Degree</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="update">Update</string>
+</resources>
